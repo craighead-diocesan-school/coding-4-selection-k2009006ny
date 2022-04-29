@@ -2,6 +2,6 @@
 // ###### ----- More Than 2 ----- #####
 // ####################################
 
-function moreThan2() {
+function moreThanTwo() {
   
 }
