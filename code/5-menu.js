@@ -18,3 +18,8 @@ function mealPlanner() {
   }
   alert('Enjoy!')
 }
+
+function make() {
+  // copy and paste your code here when you get to the Make step
+  
+}
