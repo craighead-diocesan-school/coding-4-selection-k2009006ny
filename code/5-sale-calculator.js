@@ -1,7 +1,7 @@
 // ####################################
-// ######## ----- Capital ----- #######
+// #### ----- Sale Calculator ----- ###
 // ####################################
 
-function capital() {
+function saleCalculator() {
   // write your code here
 }
