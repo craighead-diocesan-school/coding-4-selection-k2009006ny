@@ -11,8 +11,10 @@ function saleCalculator() {
   let cost = item * one
 
   if (cost > spend) {
-    alert("You don't have enough. You have $" + spend + ' to spend, but even with ' + discount + '% off, $' + item + ' only comes down to $' + cost + '.')
+    alert("You don't have enough. You have $" + spend + ' to spend, but even with ' + discount + '% off, $' + item + 
+      ' only comes down to $' + cost + '.')
   } else {
-    alert("You have enough. You have $" + spend + ' to spend, it is less than ' + discount + '% off, $' + item + ' only comes down to $' + cost + '.')
+    alert("You have enough. You have $" + spend + ' to spend, it is less than ' + discount + '% off, $' + item +
+       ' only comes down to $' + cost + '.')
   }
 }
